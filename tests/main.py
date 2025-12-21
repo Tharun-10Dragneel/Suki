@@ -1,0 +1,1 @@
+print("all the mcp tests will be running here")
