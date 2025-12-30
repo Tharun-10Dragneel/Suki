@@ -6,6 +6,8 @@ Your Favorite Character as your Companion
 **Concept:** This is Suki an Personal AI (Open Source), but with your favorite fictional character as your companion. We all loved our favorite characters but never get to meet and talk to them. Some of you might have well lucky for you guys. Well here is my team building this 
 
 
+THERE WILL BE A DEFAULT WHO PREFERS DEFAULT 
+
 ### Core Principles
 
 1. **Open Source Core**: The project is open source, meaning you can fork it to build your own version of your character. We plan to release it with an onboarding with building even Own OCs and different characters based on your choice.
